@@ -1,0 +1,6 @@
+# auto generated files
+Dockerfile
+init-rs
+
+# custom ignores
+tmp
