@@ -4,3 +4,4 @@ init-rs
 
 # custom ignores
 tmp
+**/*.class
